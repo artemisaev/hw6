@@ -1,5 +1,11 @@
 # hw6
 
+## Задание 1: NGRAM
+
+https://docs.google.com/document/d/1RASwfUZYnTul-rZNmcLv6eUZAObdPV-2bIYt8c5qayk/edit
+
+## ANT CONC
+
 ## 1 
 
 ![Анна Каренина](https://raw.githubusercontent.com/artemisaev/hw6/master/Снимок%20экрана%202018-04-01%20в%2020.58.06.png)
